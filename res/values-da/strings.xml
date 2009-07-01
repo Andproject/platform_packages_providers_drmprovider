@@ -15,6 +15,6 @@
 -->
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="permlab_accessDrm">"Доступ к содержанию DRM."</string>
-    <string name="permdesc_accessDrm">"Предоставляет приложению доступ к содержанию, защищенному DRM."</string>
+    <string name="permlab_accessDrm">"Få adgang til DRM-indhold."</string>
+    <string name="permdesc_accessDrm">"Tillader et program at få adgang til DRM-beskyttet indhold."</string>
 </resources>
